@@ -31,3 +31,8 @@ Dive Buddy is a watch face, **not a dive computer**. The no-fly figure is a cons
 ## Feedback
 
 Found a bug or want a feature? [Open an issue](../../issues/new/choose).
+
+## Support
+
+Dive Buddy is free. If it makes your surface intervals better, you can
+[buy me a coffee ☕](https://ko-fi.com/xiaohuiwang) — it keeps the cloud running.
