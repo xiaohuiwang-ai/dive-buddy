@@ -10,10 +10,10 @@ Two watch faces for **Garmin Descent G2**:
 
 Data auto-syncs from your Garmin Connect account through a free hosted cloud — no server of your own, no manual URL/token.
 
-## 📖 安装指导 / Install guide (中文)
+## 📖 安装指导 / Install guide
 
-- 水肺版 Scuba: [INSTALL-DiveScuba.md](INSTALL-DiveScuba.md)
-- 自由潜版 Free: [INSTALL-DiveFree.md](INSTALL-DiveFree.md)
+- 水肺版 Scuba: [中文](INSTALL-DiveScuba.md) · [English](INSTALL-DiveScuba.en.md)
+- 自由潜版 Free: [中文](INSTALL-DiveFree.md) · [English](INSTALL-DiveFree.en.md)
 
 5 分钟侧载安装 + 30 秒配对码激活(含 Mac OpenMTP 步骤)。 Sideload in 5 minutes, activate with a 6-digit pair code.
 
