@@ -26,15 +26,13 @@ Data auto-syncs from your Garmin Connect account through a free hosted cloud —
 2. Open **https://watch.xiaohuiwangai.cn/dive** on your phone and type the code.
 3. Bind your Garmin account there (password is used once for Garmin SSO and never stored).
 
-Done — the face activates itself within ~10 minutes. On dive days it refreshes every 10 minutes; a **Sync now** button is on your dashboard for when you're back on the boat.
+Done — the face activates itself within ~10 minutes.
 
-## 🔄 How often does data refresh
+## 🔄 When does data arrive
 
-| Stage | Cadence |
-|---|---|
-| Cloud pulls from Garmin | **every 10 min** within 6 h of a dive; every 30 min within 48 h; every 2 h beyond; hourly with no recent dives |
-| Watch face refresh | ~every 10 min (Garmin background cycle) |
-| Manual | "Sync now" on your dashboard (5-min cooldown) |
+- **After a dive**: on your watch within 10-20 minutes
+- **Sleep**: appears within 1-2 hours of waking (once the watch has synced to the Garmin app)
+- **In a hurry**: the web dashboard has a "🔄 Sync now" button — fresh data in ~10 seconds
 
 ## Privacy
 

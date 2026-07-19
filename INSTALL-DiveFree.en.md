@@ -49,6 +49,6 @@ On first use the face shows **PAIR CODE + 6 digits** and a URL.
 | Pair code expired (1 h) | Re-open the face to get a fresh code |
 | OpenMTP does not see the watch | Original cable; replug once |
 | Data shows "--" | First pull can take up to 30 min; check the dive shows in Garmin Connect |
-| How often does data refresh | Server-side auto sync: every 10 min right after a dive, 30-120 min otherwise; the account page has a "Sync now" button |
+| When does data arrive | After a dive: within 10-20 min. Sleep: within 1-2 h of waking. In a hurry: "Sync now" on the web dashboard (~10 s) |
 
 Questions: contact the seller, or open an issue: https://github.com/xiaohuiwang-ai/dive-buddy
