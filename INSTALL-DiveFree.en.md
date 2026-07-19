@@ -39,7 +39,7 @@ On first use the face shows **PAIR CODE + 6 digits** and a URL.
 2. At step 2, enter the 6-digit code from the watch — your private account is created automatically (the step-1 token is generated at the same time)
 3. Step 3 — link your Garmin account (on the account page): choose **Garmin China** (garmin.cn) or International, enter your Garmin credentials
    - The password is used once to sign in to Garmin and is **never stored**; with 2FA enabled you will be asked for a code
-4. Done — leave the watch alone: it activates itself within 10 minutes (the code disappears) and freedive data appears within ~20-30 minutes
+4. Done — leave the watch alone: it activates itself within 10 minutes (the code disappears) and freedive data appears within ~10-20 minutes after a dive
 
 ## FAQ
 
