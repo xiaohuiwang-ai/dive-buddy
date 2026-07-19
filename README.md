@@ -13,7 +13,7 @@ Data auto-syncs from your Garmin Connect account through a free hosted cloud —
 ## Setup (2 minutes)
 
 1. Install the face from the Connect IQ store — it shows a **6-digit pairing code**.
-2. Open **https://139.224.198.39/dive** on your phone and type the code.
+2. Open **https://watch.xiaohuiwangai.cn/dive** on your phone and type the code.
 3. Bind your Garmin account there (password is used once for Garmin SSO and never stored).
 
 Done — the face activates itself within ~10 minutes. On dive days it refreshes every 10 minutes; a **Sync now** button is on your dashboard for when you're back on the boat.
