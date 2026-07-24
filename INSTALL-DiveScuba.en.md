@@ -3,9 +3,13 @@
 > Supported device: **Garmin Descent G2** (contact the seller for other models)
 > Sideload install — copy one file to the watch. ~5 minutes, no technical skills needed.
 
-## Step 1: Get the watch face file
+## Step 1: Download the watch face file
 
-After purchase you receive one file: `DiveScuba.prg`. Save it to your computer.
+**🌍 International**: download from the [GitHub repo](https://github.com/xiaohuiwang-ai/dive-buddy) (`DiveScuba-分享版.prg` in the root)
+
+**🇨🇳 China (faster)**: open in browser → **https://watch.xiaohuiwangai.cn/dl/DiveScuba.prg** (auto-downloads)
+
+You'll get `DiveScuba.prg` — save it to your computer.
 
 ## Step 2: Copy it to the watch
 

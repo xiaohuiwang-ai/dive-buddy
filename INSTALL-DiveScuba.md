@@ -3,9 +3,13 @@
 > 适用机型:**Garmin Descent G2**(其他机型请先联系卖家确认)
 > 安装方式:侧载(拷一个文件进手表),全程约 5 分钟,不需要任何技术基础。
 
-## 第 1 步:拿到表盘文件
+## 第 1 步:下载表盘文件
 
-购买/获取后你会收到一个文件:`DiveScuba.prg`。先把它保存到电脑上(微信/网盘传到电脑都行)。
+**🇨🇳 国内(推荐·速度快)**:浏览器打开 → **https://watch.xiaohuiwangai.cn/dl/DiveScuba.prg**(点击自动下载)
+
+**🌍 海外**:从 [GitHub 仓库](https://github.com/xiaohuiwang-ai/dive-buddy) 下载(根目录 `DiveScuba-分享版.prg`)
+
+下载得到 `DiveScuba.prg`,先保存到电脑上(手机下载的用微信/网盘传到电脑)。
 
 ## 第 2 步:把文件拷进手表
 
